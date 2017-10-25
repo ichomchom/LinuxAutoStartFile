@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=xscreensaver-autostart
+Comment=Autostart xscreensaver
+Exec=path of the autostart.sh file
+Terminal=false
+X-Desktop-File-Install-Version=0.22
+OnlyShowin=GNOME;
